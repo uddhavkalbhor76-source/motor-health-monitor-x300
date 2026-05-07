@@ -1,0 +1,10 @@
+# requirements.txt
+# MDM-271-MEC | Motor Health Monitor | NMIET — SPPU 2024 Pattern
+# Compatible with Streamlit Community Cloud
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
